@@ -84,7 +84,7 @@ if isnightmode():
 else:
     qtxt = "black"  # Percentage color, if text visible.
     qbg = "rgba(228, 228, 228, 1)"  # Background color of progress bar.
-    qfg = "#3399cc"  # Foreground color of progress bar.
+    qfg = "#d280e0"  # Foreground color of progress bar.
     qbr = 0  # Border radius (> 0 for rounded corners).
     qtr = 0  # Border radius (> 0 for rounded corners).
 
